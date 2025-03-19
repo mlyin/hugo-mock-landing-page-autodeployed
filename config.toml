@@ -1,4 +1,4 @@
-baseURL = 'https://mlyin.github.io/hugo-mock-landing-page/'
+baseURL = 'https://mlyin.github.io/hugo-mock-landing-page-autodeployed/'
 title = "StudySync"
 author = "Matthew Yin"
 copyright = "2024 StudySync"
